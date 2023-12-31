@@ -1,0 +1,162 @@
+{
+    "quizId": "x42kew",
+    "title": "What Animal am i?",
+    "subtitle": "take this quiz to find out",
+    "content": [
+        {
+            "id": 0,
+            "text": "What habitat do you want to live in?",
+            "Options": [
+                {
+                    "text": "Snow",
+                    "id":1
+                },
+                {
+                    "text":"Savanah",
+                    "id":2
+                },
+                {
+                    "text":"Grass Plains",
+                    "id":3
+                },
+                {
+                    "text":"Forest",
+                    "id": 4
+             },
+             {
+                "text":"Ocean",
+                "id":5
+             }
+            ]
+        
+    
+},
+{
+    "id": 1,
+    "text": "What is your Favourite Food?",
+    "Options": [
+        {
+            "text": "Pizza",
+            "id": 1
+            
+        },
+        {
+            "text":"Burger",
+            "id":2
+        },
+        {
+            "text":"Stir Fry",
+            "id":3
+        },
+        {
+            "text":"Cookie",
+            "id":4
+     },
+     {
+        "text":"Fish and Chips",
+        "id":5
+     }
+
+    ]
+
+},
+{
+    "id": 2,
+    "text": "What is your Favourite Thing to do on the Weekend?",
+    "Options": [
+        {
+            "text": "Spend time with family",
+            "id":1
+        },
+        {
+            "text":"Spend time with friends",
+            "id":2
+        },
+        {
+            "text":"Go on adventures",
+            "id":3
+        },
+        {
+            "text":"sit at home on the couch",
+            "id":4
+     },
+     {
+        "text":"Go to te beach",
+        "id":5
+     }
+
+    ]
+
+},
+{
+    "id": 4,
+    "text": "If you you saw a burgerler, with a knife try and steal from your loved one, what would you do?",
+    "Options": [
+        {
+            "text":"I would immediatly go and protect my loved one at all cost even if it means I could get hurt",
+            "id":1
+        },
+        {
+            "text":"I would attack the burgerler",
+            "id":2
+        },
+        {
+            "text":"I would be too scared and go find help or call police",
+            "id":3
+            
+        },
+        {
+            "text":"I would freeze",
+            "id": 4
+     },
+     {
+        "text":"I would yell at the burgler and try and get him to go away",
+        "id":5
+     }
+
+    ]
+
+},
+{
+    "id": 5,
+    "text": "What is your favourite season",
+    "Options": [
+        {
+            "text":"Winter",
+            "id":1
+        },
+        {
+            "text":"Summer",
+            "id":2
+        },
+        {
+            "text":"Spring",
+            "id":3
+            
+        },
+        {
+            "text":"Autumn",
+            "id":4
+     },
+     {
+        "text":"I don't mind",
+        "id":5
+     }
+
+    ]
+
+}
+    ],
+"answers": [
+    {
+        "combonation": [
+            {
+           
+                
+              }
+              
+        ]
+    }
+]
+
+}
